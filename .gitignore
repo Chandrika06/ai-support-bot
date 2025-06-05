@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+
+# VSCode workspace files (if you use VSCode)
+.vscode/
+
+# OS files
+*.DS_Store
+
+# Node modules (if you later commit frontend)
+frontend/node_modules/
