@@ -7,11 +7,4 @@ __pycache__/
 # Environment files
 .env
 
-# VSCode workspace files (if you use VSCode)
-.vscode/
 
-# OS files
-*.DS_Store
-
-# Node modules (if you later commit frontend)
-frontend/node_modules/
